@@ -3,4 +3,4 @@ Simple GUI to speed up the process of creating email templates with unique infor
 
 
 # GUI 
-!(https://raw.githubusercontent.com/dadam88/My-Emailer/master/gui-picture.png)
+![GUI](https://raw.githubusercontent.com/dadam88/My-Emailer/master/gui-picture.png)
